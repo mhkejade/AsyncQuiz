@@ -1,0 +1,13 @@
+D:\Async Quiz\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\PrepareBreakfastAsync.exe
+D:\Async Quiz\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\PrepareBreakfastAsync.deps.json
+D:\Async Quiz\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\PrepareBreakfastAsync.runtimeconfig.json
+D:\Async Quiz\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\PrepareBreakfastAsync.runtimeconfig.dev.json
+D:\Async Quiz\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\PrepareBreakfastAsync.dll
+D:\Async Quiz\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\PrepareBreakfastAsync.pdb
+D:\Async Quiz\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\PrepareBreakfastAsync.csprojAssemblyReference.cache
+D:\Async Quiz\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\PrepareBreakfastAsync.AssemblyInfoInputs.cache
+D:\Async Quiz\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\PrepareBreakfastAsync.AssemblyInfo.cs
+D:\Async Quiz\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\PrepareBreakfastAsync.csproj.CoreCompileInputs.cache
+D:\Async Quiz\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\PrepareBreakfastAsync.dll
+D:\Async Quiz\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\PrepareBreakfastAsync.pdb
+D:\Async Quiz\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\PrepareBreakfastAsync.genruntimeconfig.cache
